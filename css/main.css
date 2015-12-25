@@ -115,7 +115,7 @@ a:after {
 
 .about h5, p {
   color: white;
-  font-size: 18px;
+  font-size: 18px, bold;
 }
 
 .about i {
